@@ -2,13 +2,13 @@
   display: inline-block !important;
   vertical-align: middle;
 }
-h4{
+/*h4{
   text-align: center;
 }
 ul{
   text-align: center; list-style-position:inside;
 }
-.noselect {
+*/.noselect {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
