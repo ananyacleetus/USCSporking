@@ -3,7 +3,7 @@
   vertical-align: middle;
 }
 h4{
-  align = "center";
+  text-align: center;
 }
 .noselect {
   -webkit-touch-callout: none;
