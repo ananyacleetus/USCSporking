@@ -1,6 +1,6 @@
 .vertical-align {
-  display: inline-block !important;
-  vertical-align: middle;
+    display: inline-block !important;
+    vertical-align: middle;
 }
 /*h4{
   text-align: center;
@@ -9,27 +9,28 @@ ul{
   text-align: center; list-style-position:inside;
 }
 */
-li{
-  margin-bottom: 10px; 
-  }
-#drg{
-  color:red;
+
+li {
+    margin-bottom: 10px;
+}
+h1, h2, h4 {
+    margin-left: 50px;
 }
 .noselect {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .center {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 @media (min-width: 768px) {
-  #login-dropdown .dropdown-menu {
-    width: 300px;
-    padding: 15px;
-  }
+    #login-dropdown .dropdown-menu {
+        width: 300px;
+        padding: 15px;
+    }
 }
