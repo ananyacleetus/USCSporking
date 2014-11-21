@@ -13,8 +13,8 @@ ul{
 li {
     margin-bottom: 10px;
 }
-h1, h2, h4 {
-    margin-left: 50px;
+h1, h2, h4, footer {
+    margin-left: 20px;
 }
 .noselect {
     -webkit-touch-callout: none;
