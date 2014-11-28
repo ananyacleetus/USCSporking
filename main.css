@@ -15,9 +15,12 @@ footer{
 li {
     margin-bottom: 10px;
     font-size: 16px;
+    font-family: 'Josefin Slab', serif;
 }
 h1, h2, h4, footer, #obj {
     margin-left: 20px;
+    font-family: 'Josefin Slab', serif;
+
 }
 #avengers{
     background-color: #641009;
